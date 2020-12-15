@@ -1,6 +1,6 @@
 pragma solidity ^0.6.0;
 
-import "./IERC20.sol";
+import "https://github.com/persisty/erc20Pange/blob/main/IERC20.sol";
 
 
 /**
